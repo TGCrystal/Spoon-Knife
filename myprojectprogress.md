@@ -1,0 +1,1 @@
+If I were to create a project, it would be something to keep track of ingredients you have and tell you what food you can make with it. I think I would use a blessed repository so I have authority.
